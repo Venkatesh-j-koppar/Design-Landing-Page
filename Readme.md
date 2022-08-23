@@ -14,6 +14,12 @@ Was able to use concepts of css like selectors which are used to target a partic
 
 ![image](./Output.png)
 
+## Tablet View
+![imageTab](./Tablet%20View.png)
+
+## Mobile View
+![imageMobile](./Mobile%20View.png)
+
 ## Time taken to complete this project:
 2 hrs
 
