@@ -21,7 +21,7 @@ Was able to use concepts of css like selectors which are used to target a partic
 ![imageMobile](./Mobile%20View.png)
 
 ## Time taken to complete this project:
-2 hrs
+3.5 hrs
 
 ## Application Link
 https://design-landing-webpage.netlify.app/
